@@ -2,9 +2,9 @@
 logo1: "/images/avenidaPDlogo.png? raw=true" # your photo (or logo) here
 logo2: "/images/Upcoming Events.PNG? raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <h1 style="text-align: center;" markdown="1"><b>HEADER DESCRIPTION HERE</h1></b></a>
+  <h1 style="text-align: center;" markdown="1"><b>VENDOR'S RESIDENT REFERRAL EVENT</h1></b></a>
   <br><br>
-  <h2 style="text-align: center;" markdown="1"><b>REGISTER HERE; CASH BONUS:</b><a href="https://www.avenidapalmdesert.com/RSVP/" onclick="getOutboundLink('https://www.avenidapalmdesert.com/RSVP/'); return false;"<b> USE CODE: LIFESTYLE</b></h2></a> 
+  <h2 style="text-align: center;" markdown="1"><b>SIGN-UP HERE; EARN REFERRAL FEES:</b><a href="https://www.avenidapalmdesert.com/RSVP/" onclick="getOutboundLink('https://www.avenidapalmdesert.com/RSVP/'); return false;"<b> USE CODE: "PARTNER"</b></h2></a> 
   <br><br>
 theme: jekyll-theme-minimal
 # Google Analytics
