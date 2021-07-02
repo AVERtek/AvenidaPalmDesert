@@ -1,6 +1,5 @@
 #title: AVERtek # your name photo (or website title) here
-logo1: "images/Header 1.png? raw=true" # your photo (or logo) here
-logo2: "/images/avenidaPDlogo.png?raw=true" # your photo (or logo) here
+logo1: "images/avenidaPDlogo.png? raw=true" # your photo (or logo) here
 logo2: "/images/Upcoming Events.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <h1 style="text-align: center;" markdown="1"><b>FREE CONTEST</h1></b></a> 
