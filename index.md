@@ -1,6 +1,6 @@
 # "UPCOMING EVENTS" <!-- Loads <model-viewer> for old browsers like IE11: -->
 <p align="center">
-  <img src="images/Upcoming Events.PNG" width=1200>
+  <img src="images/Upcoming Events.PNG" width=400>
 </p>
 <h2 style="text-align: center;" markdown="1"> Refer a Prospect to Avenida Palm Desert</h2> <!-- Loads <model-viewer> for old browsers like IE11: -->
 
