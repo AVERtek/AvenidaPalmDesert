@@ -1,6 +1,6 @@
 # "SPECIAL INVITATION" <!-- Loads <model-viewer> for old browsers like IE11: -->
 <p align="center">
-  <img src="images/Upcoming Events.PNG" width=250>
+  <img src="images/Upcoming Events.PNG" width=300>
   </p>
 <p align="center">
   <img src="images/Header 1.png" width=1000>
