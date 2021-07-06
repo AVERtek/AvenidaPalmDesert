@@ -1,4 +1,4 @@
-# "Private Invitation" <!-- Loads <model-viewer> for old browsers like IE11: -->
+# "Special Event Invitation" <!-- Loads <model-viewer> for old browsers like IE11: -->
 <p align="center">
   <img src="images/Upcoming Events.PNG" width=300>
   </p>
