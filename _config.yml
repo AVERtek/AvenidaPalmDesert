@@ -3,7 +3,7 @@ logo1: "/images/avenidaPDlogo.png? raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <h1 style="text-align: center;" markdown="1"><b>UNIQUE PARTNERSHIP REFERRAL EVENT</h1></b></a>
   <br><br>
-  <h2 style="text-align: center;" markdown="1"><b>JOIN US:</b><a href="AvenidaPalmDesert@Sares-Regis.com" onclick="getOutboundLink('mailto:AvenidaPalmDesert@Sares-Regis.com'); return false;"<b> RSVP Here</b></h2></a> 
+  <h2 style="text-align: center;" markdown="1"><b>JOIN US:</b><a "AvenidaPalmDesert@Sares-Regis.com" onclick="getOutboundLink('AvenidaPalmDesert@Sares-Regis.com'); return false;"<b> RSVP Here</b></h2></a> 
   <br><br>
 theme: jekyll-theme-minimal
 # Google Analytics
