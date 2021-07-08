@@ -1,4 +1,4 @@
-#       "Special Event Invitation" <!-- Loads <model-viewer> for old browsers like IE11: -->
+<h1 style="text-align: center;" markdown="1"><strong>"Special Event Invitation"</strong></h1> <!-- Loads <model-viewer> for old browsers like IE11: -->
 <p align="center">
   <img src="images/Upcoming Events.PNG" width=300>
   </p>
