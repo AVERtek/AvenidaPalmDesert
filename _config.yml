@@ -3,9 +3,11 @@ logo1: "/images/avenidaPDlogo.png? raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <h1 style="text-align: center;" markdown="1"><b>UNIQUE PARTNERSHIP REFERRAL EVENT</h1></b>
   <br><br>
-  <h2 style="text-align: center;" markdown="1"><b>Please RSVP by Wednesday, June 23rd, 2021</h2></b>
+  <h2 style="text-align: center;" markdown="1"><b>Your Referrals to our 55+ Active Adult Community result in Cash Rewards; Join Us to Learn More!</h2></b>
   <br><br>
   <h2 style="text-align: center;" markdown="1"><b>JOIN US:</b><a href="mailto:AvenidaPalmDesert@Sares-Regis.com?Subject=Professional Event RSVP" onclick="getOutboundLink('mailto:AvenidaPalmDesert@Sares-Regis.com'); return false;"<b> RSVP HERE</b></h2></a> 
+  <br><br>
+  <h3 style="text-align: center;" markdown="1"><b>Please RSVP by Wed., 06/23/2021</h3></b>
   <br><br>
 theme: jekyll-theme-minimal
 # Google Analytics
