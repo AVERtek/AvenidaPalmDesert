@@ -1,6 +1,5 @@
-<div class="myWrapper" center; markdown="1">
 # "Upcoming Event Information" <!-- Loads <model-viewer> for old browsers like IE11: -->
-</div>
+
   <p align="center">
   <img src="images/Header 1a.jpg" width=750>
   </p>
