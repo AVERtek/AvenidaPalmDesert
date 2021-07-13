@@ -1,4 +1,4 @@
-# "Upcoming Event Information" <!-- Loads <model-viewer> for old browsers like IE11: -->
+#       "Upcoming Event Information" <!-- Loads <model-viewer> for old browsers like IE11: -->
 <p align="center">
   <img src="images/Header 1a.jpg" width=750>
   </p>
