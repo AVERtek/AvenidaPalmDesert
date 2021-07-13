@@ -1,7 +1,4 @@
-# "Referral Partner Event Invitation" <!-- Loads <model-viewer> for old browsers like IE11: -->
-<p align="center">
-  <img src="images/Upcoming Events.PNG" width=300>
-  </p>
+# "Upcoming Event Information" <!-- Loads <model-viewer> for old browsers like IE11: -->
 <p align="center">
   <img src="images/Header 1a.jpg" width=750>
   </p>
