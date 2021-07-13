@@ -3,9 +3,9 @@ logo1: "/images/avenidaPDlogo.png? raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <h1 style="text-align: center;" markdown="1"><b style="color:#F26531;"><b>PROFESSIONAL REFERRAL PROGRAM</h1></b>
   <br><br>
-  <h2 style="text-align: center;" markdown="1"><b>Earn cash rewards when you refer clients to our 55+ active adult community. To learn more, visit our community today or attend one of our professional networking events.</h2></b>
+  <h2 style="text-align: center;" markdown="1"><b>Join us for networking events at our 55+ active adult community. Learn how referring clients will earn you cash rewards.</h2></b>
   <br><br>
-  <h2 style="text-align: center;" markdown="1"><b>CONTACT US:</b><a href="mailto:AvenidaPalmDesert@Sares-Regis.com?Subject=Professional Event RSVP" onclick="getOutboundLink('mailto:AvenidaPalmDesert@Sares-Regis.com'); return false;"<b> Click here to schedule your visit or RSVP for an event.</b></h2></a> 
+  <h2 style="text-align: center;" markdown="1"><b>JOIN US:</b><a href="mailto:AvenidaPalmDesert@Sares-Regis.com?Subject=Professional Event RSVP" onclick="getOutboundLink('mailto:AvenidaPalmDesert@Sares-Regis.com'); return false;"<b> RSVP HERE</b></h2></a> 
  
 theme: jekyll-theme-minimal
 # Google Analytics
