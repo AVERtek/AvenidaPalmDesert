@@ -3,7 +3,7 @@
 <h1><b> "Upcoming Event Information" </b></h1> <!-- Loads <model-viewer> for old browsers like IE11: -->
 </div>
   <p align="center">
-  <img src="images/APD-Cocktails-for-the-Cure-101321-(email) (1).jpg" width=750>
+  <img src="images/APD-Cocktails-for-the-Cure-101321-(email) (2).jpg" width=750>
   </p>
   <!--<p align="center">
   <img src="images/APD-Sips-&-Sinatra-092921-(social).jpg" width=750>
