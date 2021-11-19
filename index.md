@@ -2,12 +2,12 @@
   
 <h1><b> "Upcoming Event Information" </b></h1> <!-- Loads <model-viewer> for old browsers like IE11: -->
 </div>
-  <!--<p align="center">
-  <img src="images/November REVISED.jfif" width=750>
-  </p> -->
   <p align="center">
-  <img src="images/APD-Denim.jpg" width=750>
+  <img src="images/PD Flyer Drinks & Dino R3 11.18.21.jpg" width=750>
   </p>
+  <!-- <p align="center">
+  <img src="images/APD-Denim.jpg" width=750>
+  </p> -->
   <br><br>
 <h3 style="text-align: center;" markdown="1"><a href="https://avertek.net/" onclick="getOutboundLink('https://avertek.net/'); return false;">Learn More About AVERtek's XR-NOW</a></h3> 
   <br><br>
