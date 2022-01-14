@@ -5,6 +5,9 @@
   <p align="center">
   <img src="images/APD-011922-POSTPONED.jpg" width=750>
   </p>
+  <br>
+  <h2><b> "Be Sure To RSVP" </b></h2>
+  <br>
   <p align="center">
   <img src="images/APD-Blood Drive-022322.jpg" width=750>
   </p>
