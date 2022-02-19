@@ -8,9 +8,9 @@
   <br>
   <h2><b> "Important Event, Be Sure To RSVP" </b></h2>
   <br>
-  <!-- <p align="center">
-  <img src="images/APD-Blood-Drive-022322v2.jpg" width=750>
-  </p> -->
+  <p align="center">
+  <img src="images/APD-Mardi-Gras-030122.jpg" width=750>
+  </p>
   <br><br>
 <h3 style="text-align: center;" markdown="1"><a href="https://avertek.net/" onclick="getOutboundLink('https://avertek.net/'); return false;">Learn More About AVERtek's XR-NOW</a></h3> 
   <br><br>
