@@ -2,12 +2,12 @@
   
 <h1><b> "Upcoming Event Information" </b></h1> <!-- Loads <model-viewer> for old browsers like IE11: -->
 
-  <p align="center">
+  <!-- <p align="center">
   <img src="images/APD-Blood-Drive-022322v2.jpg" width=750>
   </p>
   <br>
   <h2><b> "Important Event, Be Sure To RSVP" </b></h2>
-  <br>
+  <br> -->
   <p align="center">
   <img src="images/APD-Mardi-Gras-030122.jpg" width=750>
   </p>
