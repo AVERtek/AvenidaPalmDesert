@@ -12,6 +12,6 @@
   <img src="images/APD-Stagecoach-042722.jpg" width=750>
   </p>
   <br><br>
-<h3 style="text-align: center;" markdown="1"><a href="https://avertek.net/" onclick="getOutboundLink('https://avertek.net/'); return false;">Marketing BOOST by AVERtek's XR-NOW</a></h3> 
+<h3 style="text-align: center;" markdown="1"><a href="https://avertek.net/" onclick="getOutboundLink('https://avertek.net/'); return false;">BOOSTED by AVERtek's XR-NOW</a></h3> 
   <br><br>
 </div>
