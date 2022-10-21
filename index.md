@@ -11,6 +11,7 @@
   <img src="images/APD Flyer Jan_Frank 11-22.jpg" width=750>
   </p>
   <h2><b> "Important Event, Be Sure To RSVP" </b></h2>
+  <br>
   <p align="center">
   <img src="images/APD-Toys-for-Tots-2022.jpg" width=750>
   </p>
