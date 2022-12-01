@@ -3,15 +3,15 @@
 <h1><b> "Upcoming Event Information" </b></h1> <!-- Loads <model-viewer> for old browsers like IE11: -->
 
   <p align="center">
-  <img src="images/APD Flyer Jan_Frank 11-22.jpg" width=750>
+  <img src="images/PD Flyer Holiday Fashion Show R1-111122.jpg" width=750>
   </p>
   <h2><b> "Important Event, Be Sure To RSVP" </b></h2>
   <br>
-  <p align="center">
+  <!--<p align="center">
   <img src="images/APD-Funky-Fall-Fling_112922.jpg" width=750>
   </p>
   <h2><b> "Important Event, Be Sure To RSVP" </b></h2>
-  <br>
+  <br> -->
   <p align="center">
   <img src="images/APD-Toys-for-Tots-2022.jpg" width=750>
   </p>
