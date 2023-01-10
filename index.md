@@ -5,7 +5,7 @@
   <p align="center">
   <img src="images/APD Flyer 01192023.jpg" width=750>
   </p>
-  <h2><b> "Important Event, Be Sure To RSVP" </b></h2>
+  <h2><b> "Exciting Event, Be Sure To RSVP" </b></h2>
   <br>
   <!--<p align="center">
   <img src="images/APD-Funky-Fall-Fling_112922.jpg" width=750>
