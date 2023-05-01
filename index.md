@@ -3,7 +3,7 @@
 <h1><b> "Upcoming Event Information" </b></h1> <!-- Loads <model-viewer> for old browsers like IE11: -->
 
   <p align="center">
-  <img src="images/APD Flyer 041923.jpg" width=750>
+  <img src="images/APD-052423.jpg" width=750>
   </p>
   <h2><b> "Exciting Event, Be Sure To RSVP" </b></h2>
   <br>
